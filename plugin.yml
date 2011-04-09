@@ -1,0 +1,13 @@
+name: Fabulous
+main: fabulous.Fabulous
+version: 0.1
+author: muCkk       
+commands:
+  fab:
+    description: Makes messages colorful
+    usage: |
+             /fab <word> <another word> <and so on>
+  faba:
+      description: Uses all colors
+      usage: |
+              /faba <words words words>
